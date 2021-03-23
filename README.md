@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h1 style="text-align: center">My First Heading</h1>
+<h1 align=center>My First Heading</h1>
 
 <p>My first paragraph.</p>
 
