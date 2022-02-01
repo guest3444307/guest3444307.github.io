@@ -9,6 +9,6 @@
  
  <a href="/OSGBDEM1.0.0/index.html">OneshotGB DEMO 1.0.0</a> 
  
- <a href="OSGB Website/Concepts/WebsiteCredits.html">OneshotGB Website</a> 
+ <a href="OSGB Website/Concepts/OneshotGBWebsite.html">OneshotGB Website</a> 
 </body>
 </html>
