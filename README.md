@@ -8,7 +8,7 @@
  <a href="/mainpage.html">Main Page</a>
  
  <a href="/OSGBDEM1.0.0/index.html">OneshotGB DEMO 1.0.0</a> 
- 
+ <a href="/osgbdemo2.0.0/index.html">OneshotGB DEMO 2.0.0</a> 
  <a href="OSGB Website/Concepts/OneshotGBWebsite.html">OneshotGB Website</a> 
 </body>
 </html>
